@@ -1,4 +1,8 @@
-stanford_person_work_info
-=========================
+# This Project is Obsolete!
+### February 11, 2014
 
-Field collection to integrate with stanford_person_general_info Feature
+The contents of this project have been moved into a new location. Please see:
+
+[github: stanford_person](https://github.com/SU-SWS/stanford_person)
+
+
